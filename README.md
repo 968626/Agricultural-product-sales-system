@@ -1,39 +1,40 @@
-# SpringBoot
+# 基于SpringBoot+Vue的H5农产品销售系统
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+ **
 
-#### 软件架构
-软件架构说明
+### 定制调试讲解毕业设计加微信jsjbyzd
+** 
+🎓【毕业设计选题】、
 
+随着互联网技术的普及，农产品销售迎来了新的发展机遇。一个便捷、高效的H5农产品销售系统对于提升农产品的市场竞争力、促进农民增收具有重要意义。
 
-#### 安装教程
+🛠️【技术栈剖析】
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+后端：SpringBoot，Java企业级应用的轻量级框架，快速搭建RESTful API，保障服务的高效与稳定。
+前端：Vue.js，现代化的JavaScript框架，结合Vuetify等UI库，构建美观、易用的前端界面。
+移动端适配：使用H5技术，确保系统在各种移动设备上都能提供良好的用户体验。
 
-#### 使用说明
+🌽【系统功能详解】
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+产品展示：系统展示农产品的详细信息，包括图片、价格、产地等。
+在线下单：用户可以在线浏览产品并下单购买，系统提供购物车和支付功能。
+订单管理：系统管理用户的订单信息，包括订单状态、物流跟踪等。
+用户反馈：用户可以对购买的产品进行评价和反馈，帮助提升产品质量。
+数据分析：系统提供销售数据分析，帮助农民了解市场需求，优化种植策略。
+![输入图片说明](1.png)
+![输入图片说明](2.png)  
+![输入图片说明](3.png)  
+![输入图片说明](4.png)  
+![输入图片说明](5.png)  
+![输入图片说明](6.png)  
+![输入图片说明](7.png)  
+![输入图片说明](8.png)  
+![输入图片说明](9.png)  
 
-#### 参与贡献
+ **
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 学生案例
+** 
+![输入图片说明](1a7f121eb872a900b1775d76be79dbb.jpg)
+![输入图片说明](35afc81bf717393c33b9ecd6cef7250.jpg)
+![输入图片说明](ddc50bd481492d1ecece47729cea0f6.jpg)
